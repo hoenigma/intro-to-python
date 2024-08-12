@@ -1,14 +1,14 @@
-# Before you go any further:
+# Before you go any further:
 
-# Replit has added some AI tools! Pretty cool, but it might
+# Replit has added some AI tools! Pretty cool, but it might
 # interfere with your learning if the AI does your work for
 # you. To disable it, find the 'AI' button at the bottom of
-# the screen, click it, and then uncheck the check box next
+# the screen, click it, and then uncheck the check box next
 # to 'Enable'.
 
 # Here's a video that will show you how: https://vimeo.com/956351893/f5a80a1c1b
 
-# You're welcome to re-enable it if you want to try it out,
+# You're welcome to re-enable it if you want to try it out,
 # but keep it disabled when you're doing the exercises.
 
 # Now, back to where we were —
@@ -84,6 +84,8 @@
 # yourself if you like.
 
 # Type your name as a comment on the next line.
+
+# Matthew
 
 # Hint: if you're on a Mac, type opt + 3 to get a #
 
