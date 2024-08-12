@@ -11,6 +11,8 @@ print(f"b is {b}")
 # @TASK: What does that output? And why? Take a guess, then
 # run the code and see.
 
+# Expect to see a is 20, b is 20
+
 # Was it what you expected?
 
 # Try to puzzle it out, and then move on to
